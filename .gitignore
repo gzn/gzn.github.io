@@ -1,0 +1,9 @@
+.DS_Store
+Makefile
+__pycache__
+content
+pelicanconf.py
+plugins
+publishconf.py
+themes
+tasks.py
