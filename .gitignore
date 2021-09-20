@@ -2,6 +2,7 @@
 Makefile
 __pycache__
 content
+output
 pelicanconf.py
 plugins
 publishconf.py
